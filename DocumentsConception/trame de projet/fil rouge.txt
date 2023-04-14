@@ -1,0 +1,36 @@
+==================================================================================================================
+		définir son sujet de fil rouge et sa cible (public visé / utilisateurs / clients)
+==================================================================================================================
+
+L'idée de ce projet est de créer un site internet regroupant les coiffeurs(euse)s, maquilleur(euse)s, et artistes tattoueur afin qu'un client puisse les recherchers et prendre des rendez-vous en ligne.
+
+Sur ce principe, pour les professionnels le désirant, les rdv pourront être pris soit à domicile du client soit en salon (sauf pour les tatoueurs la lois leur interdit...).
+
+Un rappel du rendez vous sera envoyé au client la veille de celui-ci par mail et par sms.
+Tout changement provoqué par le professionnel déclenchera également un envoie de sms et mail pour en avertir le client.
+
+il sera nécessaire de créer un compte professionnel et un compte client.
+
+une description, des photos, le site web etc des professionnels seront sur une page.
+
+==================================================================================================================
+					définir l'expérience utilisateur globale/45min
+==================================================================================================================
+
+
+
+
+==================================================================================================================
+					définir use case/45min
+==================================================================================================================
+
+
+==================================================================================================================
+					Maquettage/45min
+==================================================================================================================
+
+
+==================================================================================================================
+définir le périmètre, donc les limites de l'application et on priorise les fonctionnalités coeur de l'application
+/45min
+==================================================================================================================

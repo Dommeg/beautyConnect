@@ -1,0 +1,9 @@
+D'après Loic se concentrer sur 
+
+- une liste d'entrepreneur
+- créneau dispo ou non
+- prise de créneau
+- annulation de créneau
+- acces user
+- acces admin
+
