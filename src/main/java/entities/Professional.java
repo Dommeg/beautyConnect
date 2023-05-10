@@ -1,5 +1,5 @@
 package entities;
-
+import entities.ProfessionalEnum;
 public class Professional {
 
 	/*
