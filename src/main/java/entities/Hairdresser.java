@@ -1,5 +1,6 @@
 package BeautyConnect;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Hairdresser {
@@ -7,14 +8,21 @@ public class Hairdresser {
     private String name;
     private String email;
     private String phone;
-    private List<String> services;
+    private ArrayList<String> services;
+    
+ 
 
-    public Hairdresser(int id, String name, String email, String phone, List<String> services) {
+    public Hairdresser(int id, String name, String email, String phone, ArrayList<String> services) {
         this.id = id;
         this.name = name;
         this.email = email;
         this.phone = phone;
-        this.services = services;
+        this.services = new ArrayList<>();
+        services.add("Haircut");
+        services.add("Coloring");
+        services.add("Maquillage");
+        services.add("Tattoo");
+        services.add("Piercing");
     }
 
     // getters and setters
@@ -50,11 +58,11 @@ public class Hairdresser {
         this.phone = phone;
     }
 
-    public List<String> getServices() {
+    public ArrayList<String> getServices() {
         return services;
     }
 
-    public void setSpecialties(List<String> services) {
+    public void setServices(ArrayList<String> services) {
         this.services = services;
     }
 }
